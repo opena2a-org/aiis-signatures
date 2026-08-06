@@ -114,7 +114,7 @@ examples/                    # worked examples for contributors
 
 ## Contributing
 
-Contributions welcome. See `CONTRIBUTING.md` (coming soon) for the review process. The signature corpus is intentionally conservative — we prefer to ship high-precision, low-false-positive patterns over coverage.
+This standard is early and authored in the open. We are looking for co-authors, an independent second implementation, and high-precision signature contributions before it goes to an external standards body. See [CONTRIBUTING.md](CONTRIBUTING.md) for the review process. The signature corpus is intentionally conservative, so we prefer high-precision, low-false-positive patterns over coverage.
 
 ## License
 
